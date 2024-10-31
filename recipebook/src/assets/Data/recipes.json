@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Pepper"],
+        "instructions": "Boil spaghetti. Cook pancetta. Mix eggs and cheese. Combine all with spaghetti."
+    },
+    {
+        "id": 2,
+        "name": "Tacos",
+        "cuisine": "Mexican",
+        "ingredients": ["Tortillas", "Ground beef", "Lettuce", "Cheese", "Tomatoes"],
+        "instructions": "Cook ground beef. Fill tortillas with beef, lettuce, cheese, and tomatoes."
+    },
+    {
+        "id": 3,
+        "name": "Butter Chicken",
+        "cuisine": "Indian",
+        "ingredients": ["Chicken", "Butter", "Cream", "Tomatoes", "Spices"],
+        "instructions": "Cook chicken in spices. Add tomatoes and cream. Simmer until cooked through."
+    },
+    {
+        "id": 4,
+        "name": "Paneer Tikka",
+        "cuisine": "Indian",
+        "ingredients": ["Paneer", "Yogurt", "Spices", "Bell peppers", "Onions"],
+        "instructions": "Marinate paneer and vegetables in yogurt and spices. Skewer and grill until charred."
+    },
+    {
+        "id": 5,
+        "name": "Chicken Biryani",
+        "cuisine": "Indian",
+        "ingredients": ["Chicken", "Basmati rice", "Onions", "Tomatoes", "Spices", "Yogurt", "Cilantro"],
+        "instructions": "Marinate chicken in yogurt and spices. Layer with partially cooked rice and cook on low heat until done."
+    },
+    {
+        "id": 6,
+        "name": "Enchiladas",
+        "cuisine": "Mexican",
+        "ingredients": ["Tortillas", "Shredded chicken", "Cheese", "Enchilada sauce", "Onions"],
+        "instructions": "Fill tortillas with chicken and cheese. Roll and place in a dish, cover with sauce and cheese, then bake."
+    },
+    {
+        "id": 7,
+        "name": "Guacamole",
+        "cuisine": "Mexican",
+        "ingredients": ["Avocados", "Lime", "Onions", "Tomatoes", "Cilantro"],
+        "instructions": "Mash avocados. Mix with lime juice, diced onions, tomatoes, and chopped cilantro."
+    },
+    {
+        "id": 8,
+        "name": "Lasagna",
+        "cuisine": "Italian",
+        "ingredients": ["Lasagna noodles", "Ground beef", "Ricotta cheese", "Marinara sauce", "Mozzarella cheese"],
+        "instructions": "Layer noodles with meat, ricotta, and marinara. Top with mozzarella. Bake until bubbly."
+    },
+    {
+        "id": 9,
+        "name": "Margherita Pizza",
+        "cuisine": "Italian",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella cheese", "Basil", "Olive oil"],
+        "instructions": "Spread tomato sauce on dough. Top with mozzarella and basil. Drizzle with olive oil and bake."
+    }
+
+
+]
